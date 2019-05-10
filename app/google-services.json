@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024758723647",
+    "firebase_url": "https://fir-livestream.firebaseio.com",
+    "project_id": "fir-livestream",
+    "storage_bucket": "fir-livestream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024758723647:android:dc0b51838a09e44a",
+        "android_client_info": {
+          "package_name": "com.example.sivakomaragiri.bambstreamlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024758723647-rs3jk7e002kpvlk5lniotl8cvvbdpf6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnhIv7-IZk9eWqQeySHKn6evx4ETGQh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024758723647-rs3jk7e002kpvlk5lniotl8cvvbdpf6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
