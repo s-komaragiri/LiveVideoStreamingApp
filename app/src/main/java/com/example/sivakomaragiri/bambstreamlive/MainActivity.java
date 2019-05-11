@@ -64,8 +64,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    private static final String APPLICATION_ID = "JrFA3Gbr1IStsM3oNUPn8A";
-    private static final String API_KEY = "aj4ycbkdqjaipfhe99ocwujwu";
+    private static final String APPLICATION_ID = "";
+    private static final String API_KEY = "";
 
     @Override
     public void onResume() {
